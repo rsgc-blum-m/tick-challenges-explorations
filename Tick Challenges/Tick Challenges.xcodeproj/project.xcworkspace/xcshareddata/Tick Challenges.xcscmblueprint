@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "DDD6717741EAB3BFC5DBE2C4E822EFCBAE466E12",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "DDD6717741EAB3BFC5DBE2C4E822EFCBAE466E12" : 0,
+    "0B5A6EE76F91B9E26A208DFDAF7C21E07B878DFE" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "21C52BAE-7934-44B1-B810-80A80B0A75E0",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "DDD6717741EAB3BFC5DBE2C4E822EFCBAE466E12" : "tick-challenges-explorations\/",
+    "0B5A6EE76F91B9E26A208DFDAF7C21E07B878DFE" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Tick Challenges",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Tick Challenges\/Tick Challenges.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/rsgc-blum-m\/animations-os-x-with-serial-copy.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0B5A6EE76F91B9E26A208DFDAF7C21E07B878DFE"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/rsgc-blum-m\/tick-challenges-explorations.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "DDD6717741EAB3BFC5DBE2C4E822EFCBAE466E12"
+    }
+  ]
+}
