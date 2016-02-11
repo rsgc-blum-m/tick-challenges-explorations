@@ -3,11 +3,16 @@
    version = "3.0">
    <TimelineItems>
       <LoggerValueHistoryTimelineItem
+<<<<<<< HEAD
          documentLocation = "#CharacterRangeLen=21&amp;CharacterRangeLoc=2013&amp;EndingColumnNumber=22&amp;EndingLineNumber=94&amp;StartingColumnNumber=1&amp;StartingLineNumber=94&amp;Timestamp=476205083.525538"
+=======
+         documentLocation = "#CharacterRangeLen=27&amp;CharacterRangeLoc=4151&amp;EndingColumnNumber=28&amp;EndingLineNumber=146&amp;StartingColumnNumber=1&amp;StartingLineNumber=144&amp;Timestamp=476225997.093976"
+>>>>>>> rsgc-ics3u-2015/master
          selectedRepresentationIndex = "0"
          shouldTrackSuperviewWidth = "NO">
       </LoggerValueHistoryTimelineItem>
       <LoggerValueHistoryTimelineItem
+<<<<<<< HEAD
          documentLocation = "#CharacterRangeLen=21&amp;CharacterRangeLoc=1950&amp;EndingColumnNumber=26&amp;EndingLineNumber=91&amp;StartingColumnNumber=5&amp;StartingLineNumber=91&amp;Timestamp=475688926.376246"
          selectedRepresentationIndex = "0"
          shouldTrackSuperviewWidth = "NO">
@@ -40,6 +45,9 @@
       </LoggerValueHistoryTimelineItem>
       <LoggerValueHistoryTimelineItem
          documentLocation = "#CharacterRangeLen=27&amp;CharacterRangeLoc=2777&amp;EndingColumnNumber=28&amp;EndingLineNumber=125&amp;StartingColumnNumber=1&amp;StartingLineNumber=125&amp;Timestamp=476207248.027322"
+=======
+         documentLocation = "#CharacterRangeLen=17&amp;CharacterRangeLoc=4179&amp;EndingColumnNumber=18&amp;EndingLineNumber=147&amp;StartingColumnNumber=1&amp;StartingLineNumber=147&amp;Timestamp=476225997.094342"
+>>>>>>> rsgc-ics3u-2015/master
          selectedRepresentationIndex = "0"
          shouldTrackSuperviewWidth = "NO">
       </LoggerValueHistoryTimelineItem>
